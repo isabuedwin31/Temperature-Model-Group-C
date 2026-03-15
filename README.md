@@ -9,5 +9,5 @@
 
 # TEMPERATURE PREDICTION MODEL
 ## Description
-This model utilizes Linear Regression to predict the average temperature of a specific class.
+This model utilizes Linear Regression to predict the average temperature of a classroom.
 The dataset used was measured morning, afternoon and evening using an analog thermometer. The other variables were calculated using data from a software application.
